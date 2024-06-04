@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<!--<h1 align="center">Hi 👋, I'm Mohamed Ahmed</h1>-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Ahmed)](https://git.io/typing-svg)
 <!--
 **mohmedahalassal/mohmedahalassal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
