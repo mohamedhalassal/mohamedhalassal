@@ -3,10 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer;ECPC+Finalist;Always+learning+new+things;Building+Software+to+solve+real+problems" alt="Typing SVG" /></a>
 </p>
 
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mohamedhalassal/count.svg?"  />
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedhalassal&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhalassal" /></p>
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
