@@ -29,3 +29,15 @@
 | **Integrated Development Environments (IDEs)** |  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![CLion](https://img.shields.io/badge/-CLion-000000?style=flat&logo=clion&logoColor=white) |
 | **Blogs** | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/mohamedhalassal) [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/_Pegasus) |
 
+<!--
+## 🐍 Commits Sneak Peek
+
+<picture width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedhalassal/mohamedhalassal/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedhalassal/mohamedhalassal/output/github-snake.svg" width="100%" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mohamedhalassal/mohamedhalassal/output/github-snake.svg" width="100%" />
+</picture>
+-->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohamedhalassal&theme=transparent&hide_border=true" alt="GitHub Streak">
+</p>
